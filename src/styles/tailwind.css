@@ -1,0 +1,37 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* summary {
+  list-style-type: '\1F40E';
+} */
+
+body {
+  background-color: theme('backgroundColor.blue.900');
+}
+
+/* summary {
+  text-decoration: underline dashed gray;
+} */
+/* 
+summary::before {
+  content: '\1F40E';
+  margin-right: 5px;
+  cursor: pointer;
+  text-decoration: none;
+} */
+
+summary:focus {
+  outline: none;
+}
+
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+details {
+  cursor: pointer;
+}
