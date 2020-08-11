@@ -1,3 +1,15 @@
+Deployed @ https://martenfrisk.github.io/ATGtest/
+
+# Code for the "ATG.se frontend interview task" assignment.
+
+Written in React using TypeScript. Only added packages are Tailwind (for styling) and Moment (for date formatting). 
+
+No tests have been implemented because I threw this together in half a day. 
+
+&nbsp;
+
+### Create React App boilerplate readme below
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
