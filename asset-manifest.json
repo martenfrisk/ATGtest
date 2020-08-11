@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ATGtest/static/css/main.f11f3894.chunk.css",
-    "main.js": "/ATGtest/static/js/main.ca805e93.chunk.js",
-    "main.js.map": "/ATGtest/static/js/main.ca805e93.chunk.js.map",
+    "main.js": "/ATGtest/static/js/main.bb1ecff6.chunk.js",
+    "main.js.map": "/ATGtest/static/js/main.bb1ecff6.chunk.js.map",
     "runtime-main.js": "/ATGtest/static/js/runtime-main.48d8c6d5.js",
     "runtime-main.js.map": "/ATGtest/static/js/runtime-main.48d8c6d5.js.map",
     "static/js/2.a20fc832.chunk.js": "/ATGtest/static/js/2.a20fc832.chunk.js",
     "static/js/2.a20fc832.chunk.js.map": "/ATGtest/static/js/2.a20fc832.chunk.js.map",
     "index.html": "/ATGtest/index.html",
-    "precache-manifest.f9128e73c9a68fe6980b4a8426c0be97.js": "/ATGtest/precache-manifest.f9128e73c9a68fe6980b4a8426c0be97.js",
+    "precache-manifest.66d3f2e3e9ec907816242410459c5ff1.js": "/ATGtest/precache-manifest.66d3f2e3e9ec907816242410459c5ff1.js",
     "service-worker.js": "/ATGtest/service-worker.js",
     "static/css/main.f11f3894.chunk.css.map": "/ATGtest/static/css/main.f11f3894.chunk.css.map",
     "static/js/2.a20fc832.chunk.js.LICENSE.txt": "/ATGtest/static/js/2.a20fc832.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.48d8c6d5.js",
     "static/js/2.a20fc832.chunk.js",
     "static/css/main.f11f3894.chunk.css",
-    "static/js/main.ca805e93.chunk.js"
+    "static/js/main.bb1ecff6.chunk.js"
   ]
 }
